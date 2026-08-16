@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+build-pgo/
+build-*/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.sublime-*
+
+# Packaging / snapshots
+*.zip
+*.tar.gz
+
+# Private: interview prep notes, not for the public repo
+INTERVIEW_PREP.md
